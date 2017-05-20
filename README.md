@@ -1,5 +1,26 @@
 # pythonvbox
 
+
+
+fuck this depreciated library piece of shit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Prerequisites:
 
 virtualbox
