@@ -20,8 +20,7 @@ fuck this depreciated library piece of shit
 
 
 
-~~
-Prerequisites:
+~~Prerequisites~~:
 
 virtualbox
 python-pip
