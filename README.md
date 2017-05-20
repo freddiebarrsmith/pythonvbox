@@ -22,17 +22,17 @@ fuck this depreciated library piece of shit
 
 ~~Prerequisites~~:
 
-virtualbox
+~~virtualbox
 python-pip
 pyvbox (install via pip)
 ~~
-Documentation:
+~~Documentation:
 
 
-https://pypi.python.org/pypi/pyvbox
+~~https://pypi.python.org/pypi/pyvbox
 
-Misc:
+~~Misc:
 http://stackoverflow.com/questions/565680/why-could-virtualbox-not-find-a-registered-machine-named-windows-7n
 
 
-VBoxManage -nologo list vms
+~~VBoxManage -nologo list vms
