@@ -1,10 +1,17 @@
 # pythonvbox
 
 Prerequisites:
-python-pip
-vboxapi (install via python-pip)
 
+virtualbox
+python-pip
+pyvbox (install via pip)
 
 Documentation:
+
+
+https://pypi.python.org/pypi/pyvbox
+
+Misc:
+http://stackoverflow.com/questions/565680/why-could-virtualbox-not-find-a-registered-machine-named-windows-7n
 
 
