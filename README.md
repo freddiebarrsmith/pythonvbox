@@ -15,3 +15,4 @@ Misc:
 http://stackoverflow.com/questions/565680/why-could-virtualbox-not-find-a-registered-machine-named-windows-7n
 
 
+VBoxManage -nologo list vms
